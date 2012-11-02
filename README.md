@@ -7,4 +7,4 @@ This is not a change
 
 This is another change
 
-Hello!
+Hello
